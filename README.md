@@ -14,27 +14,27 @@
 
 <h2>Nasıl Kullanılır?</h2>
 <ol>
-    <li><strong>Gereksinimler</strong>
-        <ul>
-            <li>Python 3.x</li>
-            <li>OpenCV</li>
-            <li>NumPy</li>
-            <li>Matplotlib</li>
-        </ul>
-    </li>
+<li><strong>Gereksinimler</strong>
+    <ul>
+        <li>Python 3.x</li>
+        <li>OpenCV</li>
+        <li>NumPy</li>
+        <li>Matplotlib</li>
+    </ul>
+</li>
 
-    <li><strong>Kurulum</strong>
-        <pre><code>pip install opencv-python numpy matplotlib</code></pre>
-    </li>
+<li><strong>Kurulum</strong>
+    <pre><code>pip install opencv-python numpy matplotlib</code></pre>
+</li>
 
-    <li><strong>Kod Açıklaması</strong>
-        <p>Betiği çalıştırmadan önce <code>ornek_resimler</code> klasörüne işlem yapılacak JPG ve TXT dosyalarını yerleştirin.</p>
-        <p>Script dosyasını çalıştırdıktan sonra <code>output</code> klasöründe işlenmiş dosyaları gözlemleyin.</p>
-    </li>
+<li><strong>Kod Açıklaması</strong>
+    <p>Betiği çalıştırmadan önce <code>ornek_resimler</code> klasörüne işlem yapılacak JPG ve TXT dosyalarını yerleştirin.</p>
+    <p>Script dosyasını çalıştırdıktan sonra <code>output</code> klasöründe işlenmiş dosyaları gözlemleyin.</p>
+</li>
 
-    <li><strong>Örnek Kullanım</strong>
-        <pre><code>python script.py</code></pre>
-    </li>
+<li><strong>Örnek Kullanım</strong>
+    <pre><code>python script.py</code></pre>
+</li>
 </ol>
 
 <h2>Lisans</h2>
